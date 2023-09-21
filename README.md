@@ -12,7 +12,7 @@ We will update field related papers and codes from time to time!
 - 2023-TIFS-FastSecNet: An Efficient Cryptographic Framework for Private Neural Network Inference
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10081492/metrics#metrics)
 
-## Private-Neural Network Inference
+## Private-Neural Network Train
 - 2022-TNSE- SecureTrain: An Approximation-Free and Computationally Efficient Framework for Privacy-Preserved Neural Network Training.
   [[paper]](https://ieeexplore.ieee.org/document/9271910#:~:text=SecureTrain%20enables%20joint%20linear%20and%20nonlinear%20computation%20based,to%20achieve%20training%20stability%20and%20prevent%20accuracy%20loss.)
   [[code]](https://github.com/ChiaoThon/SecureTrain)
