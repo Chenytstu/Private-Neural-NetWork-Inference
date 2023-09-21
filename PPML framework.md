@@ -1,4 +1,4 @@
-![image](https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/ab6a2393-b32a-4347-9a67-acf8a0d7421f)
+
 # Machine learning privacy computing framework  [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Chenytstu/Private-Neural-NetWork-Inference)
 > Machine learning privacy computing framework collation
 We will update field related papers and codes from time to time!
