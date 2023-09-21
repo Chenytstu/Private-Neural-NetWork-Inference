@@ -6,6 +6,9 @@ We will update field related papers and codes from time to time!
 ## FudanMPL  
 
 ![image](https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/5e405352-1483-41f2-abe9-2cfccb623780#pic_center=500)
+<div align=center>
+<img src="[https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png](https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png)" width="180" height="105"> width="180" height="105"/>
+</div>
 
 - FudanMPL[[Link]](https://github.com/FudanMPL)是由复旦大学 Daslab 实验室韩伟力教授及其学生独立研发的开源安全多方学习平台，是国内首个基于 BGW [17]协议的开源安全多方学习框架。同时该框架作为国内首个发表在安全四大顶会(S&P 和 CCS)上的用于多方训练的创新安全框架，可以用于金融风控、 智慧医疗等隐私敏感场景。平台子项目 SecMML 和 pMPL 得到系统安全领域国际顶尖会议同行专家的认可。截止至 2022 年 11 月 18 日，该项目在 Github 上收获了 82 Stars。 
 
