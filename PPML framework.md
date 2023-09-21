@@ -4,14 +4,9 @@
 We will update field related papers and codes from time to time!
 
 ## FudanMPL  
-
-![image](https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/5e405352-1483-41f2-abe9-2cfccb623780#pic_center=500)
 <div align=center>
 <img src="https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/5e405352-1483-41f2-abe9-2cfccb623780" >
 </div>
-
-
-
 
 - FudanMPL[[Link]](https://github.com/FudanMPL)是由复旦大学 Daslab 实验室韩伟力教授及其学生独立研发的开源安全多方学习平台，是国内首个基于 BGW [17]协议的开源安全多方学习框架。同时该框架作为国内首个发表在安全四大顶会(S&P 和 CCS)上的用于多方训练的创新安全框架，可以用于金融风控、 智慧医疗等隐私敏感场景。平台子项目 SecMML 和 pMPL 得到系统安全领域国际顶尖会议同行专家的认可。截止至 2022 年 11 月 18 日，该项目在 Github 上收获了 82 Stars。 
 
@@ -20,7 +15,9 @@ We will update field related papers and codes from time to time!
 
 
 ## Primihub
-![image](https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/bea3701f-29db-41c7-8a7e-e763fae0860c)
+<div align=center>
+<img src="https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/bea3701f-29db-41c7-8a7e-e763fae0860c" >
+</div>
 
 - Primihub[[Link]](https://github.com/primihub/primihub)是由原语科技研发的开源可信隐私计算平台，该平台融合了安全多方计算 (MPC)、联邦学习(FL)、同态加密(HE)、可信执行环境(TEE)等多种隐私计算技术，并提供多安全级别、多性能要求、多场景下的应用。是国内技术方案较为齐全的隐私计算平台之一，截止至 2022 年 11 月 12 日，该项目在 Github 上收获了 253 Stars。在本文中，将主要针对该框架的安全多方计算技术板块进行评估分析。
 
@@ -29,7 +26,15 @@ We will update field related papers and codes from time to time!
 - 在易用性方面，Primihub 代码结构清晰，维护了相对完备的文档（https://docs.primihub.com/docs/quick-start），同时在各平台进行讲解推广，进而大大提高了该框架的易用性。在特定优化方面，Primihub 针对支持 SSE2 extensions 的处理器提供了一些指令优化以提升计算速度，该优化主要针对移位操作。
 
 
-## Contribute
+## EzPC
+<div align=center>
+<img src="https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/4b2d8077-fdd3-4d25-ab01-60c7cb2d75a7" >
+</div>
 
-Contributions are always welcome!
+- EzPC[[Link]](https://github.com/mpc-msri/EzPC)是微软开源的安全多方学习框架，该框架主要支持安全多方计算(MPC)这一隐私计算技术，针对安全推理场景提供了相对完备的安全级别定义，相关研究工作自成一体，是安全多方学习框架中安全推理场景的标杆之一，该框架在安全推理领域得到系统安全领域国际顶尖会议同行专家的认可[18][19][20][21]。截止至 2022 年 11 月 12 日，该项目在 Github 上收获了 268 Stars。
+
+- 在安全模型方面，EzPC 主要针对半诚实场景[8][9]。从技术路线角度来看，EzPC 支持秘密分享，不经意传输以及同态加密技术路线相对完备。从应用层的这项指标进行分析，EzPC 目前主要是针对安全推理场景设计，因此应用层主要是对神经网络进行支持。
+
+- 在易用性与针对性优化方面，EzPC 是首个实现算术秘密分享和布尔秘密分享混合运算的框架，该框架向用户隐藏了底层密码学原语，根据所需计算自动进行算术秘密分享以及布尔秘密分享的转换，例如，在进行矩阵乘法时使用算术秘密分享，进行位运算时自动转为布尔秘密分享，用户无需手动进行转换，因此大幅度提高了该框架的易用性。同时针对性的转换也提高了框架的运行效率，Nishanth 等人在 2019 年发表的文章[10]中指出 EzPC 在各种场景至少与其他框架效率保持一致，最好时甚至能够快 19 倍。
+
 
