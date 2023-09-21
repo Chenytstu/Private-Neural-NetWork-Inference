@@ -7,7 +7,7 @@ We will update field related papers and codes from time to time!
 
 ![image](https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/5e405352-1483-41f2-abe9-2cfccb623780#pic_center=500)
 <div align=center>
-<img src="https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/5e405352-1483-41f2-abe9-2cfccb623780" width="180" height="105">
+<img src="https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/5e405352-1483-41f2-abe9-2cfccb623780" >
 </div>
 
 
