@@ -4,9 +4,9 @@ We will update field related papers and codes from time to time!
 
 ## Private-Neural Network Inference
 
-- 2023-TIFS-Optimized Privacy-Preserving CNN Inference With Fully Homomorphic Encryption
-  [paper](https://ieeexplore.ieee.org/abstract/document/10089847) 
-  [Related code](https://github.com/yamanalab/PP-CNN) - Note: This code is for CNN inference over HE, not the paper's Code!
+- 2023-TIFS-Optimized Privacy-Preserving CNN Inference With Fully Homomorphic Encryption.  
+  [[paper]](https://ieeexplore.ieee.org/abstract/document/10089847)  
+  [[Related code]](https://github.com/yamanalab/PP-CNN) - Note: This code is for CNN inference over HE, not the paper's Code!
 
 - 2023-TIFS-FastSecNet: An Efficient Cryptographic Framework for Private Neural Network Inference
   [paper](https://ieeexplore.ieee.org/abstract/document/10081492/metrics#metrics)
