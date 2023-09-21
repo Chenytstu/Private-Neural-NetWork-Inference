@@ -57,11 +57,11 @@ We will update field related papers and codes from time to time!
 <img src="https://github.com/Chenytstu/Private-Neural-NetWork-Inference/assets/80495405/3e0e81b2-bb2e-4f1c-8cb0-ea801446ce69" >
 </div>
 
-Piranha是 UC Berkley 的 Rise 实验室维护的安全多方学习框架，该框架主要支持安全多方计算(MPC)隐私计算技术，该框架主要通过 GPU 对本地密文计算进行加速，提高本地运算效率，是隐私计算领域中使用 GPU 加速本地密文计算的先行者。Piranha 发表在安全四大顶会 Usenix 上，截止至 2022 年 11 月 12 日，该项目在 Github 上收获了 36 Stars。
+- Piranha是 UC Berkley 的 Rise 实验室维护的安全多方学习框架，该框架主要支持安全多方计算(MPC)隐私计算技术，该框架主要通过 GPU 对本地密文计算进行加速，提高本地运算效率，是隐私计算领域中使用 GPU 加速本地密文计算的先行者。Piranha 发表在安全四大顶会 Usenix 上，截止至 2022 年 11 月 12 日，该项目在 Github 上收获了 36 Stars。
 
-在安全模型方面，Piranha 支持三种协议，包括 Mohassel 等人提出的两方安全训练协 议 SecureML ，Wagh 等人提出的恶意的诚实大多数三方安全训练及预测协议 Falcon 以及 Dalskov 等人提出的恶意的诚实大多数四方安全训练协议 Fantastic Four 协议。从应用层的这项指标进行分析，由于 GPU 运算主要是针对矩阵运算加速，因此 Piranha 主要支持深度神经网络。
+- 在安全模型方面，Piranha 支持三种协议，包括 Mohassel 等人提出的两方安全训练协 议 SecureML ，Wagh 等人提出的恶意的诚实大多数三方安全训练及预测协议 Falcon 以及 Dalskov 等人提出的恶意的诚实大多数四方安全训练协议 Fantastic Four 协议。从应用层的这项指标进行分析，由于 GPU 运算主要是针对矩阵运算加速，因此 Piranha 主要支持深度神经网络。
 
-在特定优化方面，Piranha 主要通过 GPU 加速本地矩阵运算，进而大幅度提高协议执行效率。由于 Piranha 对协议本身没有特定要求，因此该框架对本地加速能够适用于各种协议， 因此对其他安全多方学习框架有较大的借鉴意义。
+- 在特定优化方面，Piranha 主要通过 GPU 加速本地矩阵运算，进而大幅度提高协议执行效率。由于 Piranha 对协议本身没有特定要求，因此该框架对本地加速能够适用于各种协议， 因此对其他安全多方学习框架有较大的借鉴意义。
 
 ## Note
 This paper from the data security and management team of fudan university (https://dsg.fudan.edu.cn/), would like to know more details, please click below to read the original text.
