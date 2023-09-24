@@ -10,9 +10,16 @@ We will update field related papers and codes from time to time!
   [[Related code]](https://github.com/yamanalab/PP-CNN)  
   Note: This code is for CNN inference over HE, not the paper's Code!
 
-- 2023-TIFS-FastSecNet: An Efficient Cryptographic Framework for Private Neural Network Inference
+- 2023-TIFS-FastSecNet: An Efficient Cryptographic Framework for Private Neural Network Inference.
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10081492/metrics#metrics)
 
+- 2023-USENIX-SecretFlow-SPU: A Performant and User-Friendly Framework for Privacy-Preserving Machine Learning.
+  [[paper]](https://www.usenix.org/system/files/atc23-ma.pdf)
+  [[code]](https://github.com/secretflow/spu.git)
+
+- 2023-Computers & Security-SecureRC: A system for privacy-preserving relation classification using secure multi-party computation.
+  [[paper]](https://dl.acm.org/doi/10.1016/j.cose.2023.103142)
+  
 ### 2022
 - 2022-CCS-Hunter: HE-Friendly Structured Pruning for Efficient Privacy-Preserving Deep Learning.
   [[paper]](https://dl.acm.org/doi/abs/10.1145/3488932.3517401)
