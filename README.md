@@ -4,6 +4,7 @@ We will update field related papers and codes from time to time!
 
 ## Private-Neural Network Inference
 
+# 2023
 - 2023-TIFS-Optimized Privacy-Preserving CNN Inference With Fully Homomorphic Encryption.
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10089847)
   [[Related code]](https://github.com/yamanalab/PP-CNN)  
@@ -11,6 +12,14 @@ We will update field related papers and codes from time to time!
 
 - 2023-TIFS-FastSecNet: An Efficient Cryptographic Framework for Private Neural Network Inference
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10081492/metrics#metrics)
+
+# 2022
+- 2022-CCS-Hunter: HE-Friendly Structured Pruning for Efficient Privacy-Preserving Deep Learning.
+  [[paper]](https://dl.acm.org/doi/abs/10.1145/3488932.3517401)
+
+# 2016
+- 2016-ICML-CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy.
+  [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
 
 ## Private-Neural Network Train
 - 2022-TNSE- SecureTrain: An Approximation-Free and Computationally Efficient Framework for Privacy-Preserved Neural Network Training.
