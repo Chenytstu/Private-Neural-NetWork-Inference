@@ -23,6 +23,10 @@ We will update field related papers and codes from time to time!
  - 2023-TDAES-SecureTVM: - 2023-Computers & Security-SecureRC: A system for privacy-preserving relation classification using secure multi-party computation.
   [[paper]](https://dl.acm.org/doi/10.1145/3579049).
 
+- 2023-MIT-Math-grouph-SyFER-MLIR: Integrating Fully Homomorphic Encryption Into the MLIR Compiler Framework.
+  [[paper]](https://math.mit.edu/research/highschool/primes/materials/2020/Govindarajan-Moses.pdf)
+
+  
 ### 2022
 - 2022-CCS-Hunter: HE-Friendly Structured Pruning for Efficient Privacy-Preserving Deep Learning.
   [[paper]](https://dl.acm.org/doi/abs/10.1145/3488932.3517401)
